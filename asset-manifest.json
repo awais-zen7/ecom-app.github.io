@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecom-app.github.io.git/static/css/main.ff02f4b5.css",
+    "main.js": "/ecom-app.github.io.git/static/js/main.e5f9acdd.js",
+    "static/js/453.ce58f9bb.chunk.js": "/ecom-app.github.io.git/static/js/453.ce58f9bb.chunk.js",
+    "index.html": "/ecom-app.github.io.git/index.html",
+    "main.ff02f4b5.css.map": "/ecom-app.github.io.git/static/css/main.ff02f4b5.css.map",
+    "main.e5f9acdd.js.map": "/ecom-app.github.io.git/static/js/main.e5f9acdd.js.map",
+    "453.ce58f9bb.chunk.js.map": "/ecom-app.github.io.git/static/js/453.ce58f9bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.e5f9acdd.js"
+  ]
+}
